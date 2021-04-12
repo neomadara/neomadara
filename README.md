@@ -22,6 +22,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 **Languages and Tools:**  
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -29,14 +30,15 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://github.com/hussainweb/hussainweb/raw/main/icons/golang.png"></code>
 
-📊 **This Week I Spent My Time On:**
+📊 **This Month I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
 JavaScript   11 hrs 39 mins  ████████████████▒░░░░░░░░   64.89 % 
-JSX          3 hrs 40 mins   █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-SCSS         2 hrs 34 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+TypeScript   3 hrs 40 mins   █████░░░░░░░░░░░░░░░░░░░░   20.44 %
 ```
 <!--END_SECTION:waka-->
 
@@ -45,11 +47,6 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=neomadara&show_icons=true&theme=gotham" alt="neomadara" />
-
-
-
-
-
 
 
 <!--
