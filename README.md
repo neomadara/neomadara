@@ -1,4 +1,5 @@
 ### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<br />
 <a href="https://twitter.com/CristGutierrez">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -9,10 +10,10 @@
 <br />
 <br />
 
-Hi, I'm [Cristian Gutiérrez](https://cristiangutierrez.dev/), a passionate self-taught Full Stack web developer and a freelance software engineer from Chile. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Cristian Gutiérrez](https://cristiangutierrez.dev/), a passionate self-taught Full Stack web developer and a freelance software engineer from Chile. Creating Code is one of the things that i am most passionate about doing, understanding the problem and giving a solution through creativity and logic is an incredible feeling.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
+I always keep learning something new and reinforcing what i already know.
+<br>
 
   <img align="right" alt="GIF" src="https://github.com/neomadara/neomadara/blob/main/code.gif?raw=true" width="500" height="320" />
   
