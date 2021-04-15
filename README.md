@@ -35,13 +35,14 @@ I always keep learning something new and reinforcing what i already know.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://github.com/hussainweb/hussainweb/raw/main/icons/golang.png"></code>
 
-📊 **This Month I Spent My Time On:**
+📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript         4 hrs 39 mins   ███████████████████░░░░░░   70 % 
-TypeScript         8 hrs 40 mins   █████████████░░░░░░░░░░░░   45 %
-Golang             7 hrs 40 mins   █████░░░░░░░░░░░░░░░░░░░░   30 %
-Clean Architecture 6 hrs 40 mins   ████████████████░░░░░░░░░   60 %
+TypeScript          8 hrs
+Golang              5 hrs
+Clean Architecture  6 hrs
+Learn Android       6 hrs
+Refactoring         6 hrs
 ```
 <!--END_SECTION:waka-->
 
