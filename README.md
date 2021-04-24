@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm [Cristian Gutiérrez](https://cristiangutierrez.dev/), a passionate self-taught Full Stack web developer and a freelance software engineer from Chile. Creating Code is one of the things that i am most passionate about doing, understanding the problem and giving a solution through creativity and logic is an incredible feeling.
+Hi, I'm [Cristian Gutiérrez](https://cristiangutierrez.dev/), a passionate self-taught Software Engineer and a freelance software engineer from Chile. Creating Code is one of the things that i am most passionate about doing, understanding the problem and giving a solution through creativity and logic is an incredible feeling.
 
 I always keep learning something new and reinforcing what i already know.
 <br>
