@@ -38,11 +38,11 @@ I always keep learning something new and reinforcing what i already know.
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-TypeScript         █████████████░░░░░░░░░░░░   45 %
-Golang             █████░░░░░░░░░░░░░░░░░░░░   30 %
-Clean Architecture ████████████████░░░░░░░░░   60 %
-Learn Android      ███░░░░░░░░░░░░░░░░░░░░░░   10 %
-Refactoring        ███░░░░░░░░░░░░░░░░░░░░░░   10 %
+TypeScript
+Kotlin
+MVVM
+Android
+iOS
 ```
 <!--END_SECTION:waka-->
 
