@@ -16,10 +16,15 @@ I always keep learning something new and reinforcing what i already know.
 <br>
 
   <img align="right" alt="GIF" src="https://github.com/neomadara/neomadara/blob/main/code.gif?raw=true" width="500" height="320" />
-  
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@CristGutierrez](https://twitter.com/CristGutierrez);
+
+- 🔭 I’m currently working on Walmart Chile
+- 🌱 I’m currently learning Kotlin & Android
+- 📚 I’m currently reading:
+    - Refactoring improving the design of existing code
+    - Building Microservices: Designing Fine-Grained Systems
+    - Clean Architecture: A Craftsman's Guide to Software Structure and Design
 - 📝 [Resume](https://cristiangutierrez.dev/)
+- ⚡ Fun fact: I have titanium in my right hand
 
 **Languages and Tools:**  
 
@@ -35,16 +40,14 @@ I always keep learning something new and reinforcing what i already know.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://github.com/hussainweb/hussainweb/raw/main/icons/golang.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
+
+📊 **This Week I Focus My Time On:**
+<!--START_SECTION-->
 ```text
-TypeScript
-Kotlin
-MVVM
-Android
-iOS
+Practice TDD
+Finish reading pending books
 ```
-<!--END_SECTION:waka-->
+<!--END_SECTION-->
 
 
 
@@ -66,4 +69,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📚
 -->
