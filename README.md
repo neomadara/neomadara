@@ -46,7 +46,7 @@ I always keep learning something new and reinforcing what i already know.
 📊 **This Week I Focus My Time On:**
 <!--START_SECTION-->
 ```text
-Practice TDD
+Jetpack Compose
 Finish reading pending books
 ```
 <!--END_SECTION-->
