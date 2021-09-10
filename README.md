@@ -47,7 +47,7 @@ I always keep learning something new and reinforcing what i already know.
 <!--START_SECTION-->
 ```text
 Jetpack Compose
-Finish reading pending books
+Kotlin Koans
 ```
 <!--END_SECTION-->
 
