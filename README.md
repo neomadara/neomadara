@@ -46,8 +46,11 @@ I always keep learning something new and reinforcing what i already know.
 📊 **This Week I Focus My Time On:**
 <!--START_SECTION-->
 ```text
+Fundamentals Android
 Jetpack Compose
 Kotlin Koans
+Hilt
+Clean Architecture
 ```
 <!--END_SECTION-->
 
