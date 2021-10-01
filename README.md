@@ -51,6 +51,7 @@ Jetpack Compose
 Kotlin Koans
 Hilt
 Clean Architecture
+Learn Go with test
 ```
 <!--END_SECTION-->
 
