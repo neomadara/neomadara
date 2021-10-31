@@ -44,6 +44,7 @@ I always keep learning something new and reinforcing what i already know.
 <!--START_SECTION-->
 ```text
 MVVM + Jetpack Compose
+Domain driven design
 ```
 <!--END_SECTION-->
 
