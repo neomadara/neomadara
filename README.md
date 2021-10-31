@@ -1,8 +1,5 @@
 ### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
-<a href="https://twitter.com/CristGutierrez">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/cristian-gutiérrez-a1958660/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -46,12 +43,7 @@ I always keep learning something new and reinforcing what i already know.
 📊 **This Week I Focus My Time On:**
 <!--START_SECTION-->
 ```text
-Fundamentals Android
-Jetpack Compose
-Kotlin Koans
-Hilt
-Clean Architecture
-Learn Go with test
+MVVM + Jetpack Compose
 ```
 <!--END_SECTION-->
 
