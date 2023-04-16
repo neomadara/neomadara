@@ -17,9 +17,7 @@ I always keep learning something new and reinforcing what i already know.
 - 🔭 I’m currently working on Walmart Chile
 ### - 🌱 I’m currently learning React Native
 - 📚 I’m currently reading:
-    - Clean Craftsmanship: Disciplines, Standards, and Ethics [Chapter 2]
-    - Building Event-Driven Microservices [Chapter 1]
-    - Refactoring [Chapter 1]
+    - El Programador pragmático [ Chapter 2 ]
 - 📝 [Resume](https://cristiangutierrez.dev/)
 - ⚡ Fun fact: I have titanium in my right hand
 
@@ -43,7 +41,9 @@ I always keep learning something new and reinforcing what i already know.
 📊 **This Week I Focus My Time On:**
 <!--START_SECTION-->
 ```text
-Functional Testing
+Testing
+Mentoring
+Roadmap 2023
 ```
 <!--END_SECTION-->
 
