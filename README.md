@@ -15,11 +15,12 @@ I always keep learning something new and reinforcing what i already know.
   <img align="right" alt="GIF" src="https://github.com/neomadara/neomadara/blob/main/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on Walmart Chile
-### - 🌱 I’m currently learning React Native
+-  🌱 I’m currently learning:
+    - mobile applications 
 - 📚 I’m currently reading:
     - El Programador pragmático [ Chapter 2 ]
-- 📝 [Resume](https://cristiangutierrez.dev/)
-- ⚡ Fun fact: I have titanium in my right hand
+- 📝 [My Resume](https://cristiangutierrez.dev/)
+- ⚡ Strange fact about me: I have titanium in my right hand
 
 **Languages and Tools:**  
 
