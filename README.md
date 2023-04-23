@@ -11,9 +11,11 @@ I always keep learning something new and reinforcing what i already know.
 
 - 🔭 I’m currently working on Walmart Chile
 -  🌱 I’m currently learning:
-    - mobile applications 
+    - iOS
+    - Measure React Native performance
+    - Golang
 - 📚 I’m currently reading:
-    - El Programador pragmático [ Chapter 2 ]
+    - The Programmatic Programmer [ Chapter 2 ]
 - 📝 [My Resume](https://cristiangutierrez.dev/)
 - ⚡ Strange fact about me: I have titanium in my right hand
 
@@ -34,12 +36,10 @@ I always keep learning something new and reinforcing what i already know.
 </p>
 
 
-📊 **This Week I Focus My Time On:**
+📊 **This Month I Focus My Time On:**
 <!--START_SECTION-->
 ```text
-Testing
-Mentoring
-Roadmap 2023
+Improve my Technical Lead role
 ```
 <!--END_SECTION-->
 
