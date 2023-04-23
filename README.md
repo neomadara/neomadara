@@ -1,15 +1,10 @@
 ### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
-<a href="https://www.linkedin.com/in/cristian-gutiérrez-a1958660/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<br />
-<br />
 
 Hi, I'm [Cristian Gutiérrez](https://cristiangutierrez.dev/), a passionate self-taught Software Engineer from Chile. Creating Code is one of the things that i am most passionate about doing, understanding the problem and giving a solution through creativity and logic is an incredible feeling.
 
 I always keep learning something new and reinforcing what i already know.
+
 <br>
 
   <img align="right" alt="GIF" src="https://github.com/neomadara/neomadara/blob/main/code.gif?raw=true" width="500" height="320" />
