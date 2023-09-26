@@ -15,7 +15,8 @@ I always keep learning something new and reinforcing what i already know.
     - Measure React Native performance
     - Golang
 - 📚 I’m currently reading:
-    - The Programmatic Programmer [ Chapter 2 ]
+    - The Programmatic Programmer
+    - Modern Software Engineer
 - 📝 [My Resume](https://cristiangutierrez.dev/)
 - ⚡ Strange fact about me: I have titanium in my right hand
 
