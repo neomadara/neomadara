@@ -13,7 +13,6 @@ I always keep learning something new and reinforcing what i already know.
 -  🌱 I’m currently learning:
     - iOS
     - Measure React Native performance
-    - Golang
 - 📚 I’m currently reading:
     - The Programmatic Programmer
     - Modern Software Engineer
