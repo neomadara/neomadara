@@ -10,9 +10,9 @@ I always keep learning something new and reinforcing what i already know.
   <img align="right" alt="GIF" src="https://github.com/neomadara/neomadara/blob/main/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on Walmart Chile
--  🌱 I’m currently learning:
+-  🌱 I’m currently learning:    
     - iOS
-    - Measure React Native performance
+    - Android
 - 📚 I’m currently reading:
     - The Programmatic Programmer
     - Modern Software Engineer
