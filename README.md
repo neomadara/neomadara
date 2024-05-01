@@ -39,7 +39,7 @@ I always keep learning something new and reinforcing what i already know.
 📊 **This Month I Focus My Time On:**
 <!--START_SECTION-->
 ```text
-Improve my Technical Lead role
+creating my tech road map 2024
 ```
 <!--END_SECTION-->
 
