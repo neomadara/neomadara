@@ -1,21 +1,21 @@
 ### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
 
-Hi, I'm [Cristian Gutiérrez](https://cristiangutierrez.dev/), a passionate self-taught Software Engineer from Chile. Creating Code is one of the things that i am most passionate about doing, understanding the problem and giving a solution through creativity and logic is an incredible feeling.
+Hi, I'm [Cristian Gutiérrez](https://cristiangutierrez.dev/), a passionate software engineer with strong technical knowledge and soft skills that add value to any development team.
 
-I always keep learning something new and reinforcing what i already know.
+As a software engineer, I have gained technical experience in various areas, excelling in the design and development of hybrid applications, database implementation and management, API integration, and cloud deployment. My focus is on creating efficient and scalable solutions that meet the highest industry standards.
+
+My soft skills are a key asset in my career. I consider myself a leader with exceptional teamwork abilities, capable of inspiring and guiding others toward achieving common goals. My focus on collaborative leadership has been fundamental to the success of the projects I have participated in
 
 <br>
 
   <img align="right" alt="GIF" src="https://github.com/neomadara/neomadara/blob/main/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m currently working on Walmart Chile
--  🌱 I’m currently learning:    
-    - iOS
-    - Android
+- 🔭 I’m working at Walmart Chile
 - 📚 I’m currently reading:
-    - The Programmatic Programmer
-    - Modern Software Engineer
+    - The Programmatic Programmer - David Thomas & Andrew Hunt
+    - Modern Software Engineer - Farley
+    - Building Microservices - Newman
 - 📝 [My Resume](https://cristiangutierrez.dev/)
 - ⚡ Strange fact about me: I have titanium in my right hand
 
@@ -39,7 +39,7 @@ I always keep learning something new and reinforcing what i already know.
 📊 **This Month I Focus My Time On:**
 <!--START_SECTION-->
 ```text
-creating my tech road map 2024
+searching opportunities of improve a corporate app
 ```
 <!--END_SECTION-->
 
