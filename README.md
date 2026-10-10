@@ -11,7 +11,7 @@ My soft skills are a key asset in my career. I consider myself a leader with exc
 
   <img align="right" alt="GIF" src="https://github.com/neomadara/neomadara/blob/main/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m working at Walmart Chile
+- 🔭 I’m working at Walmart Global Tech
 - 📚 I’m currently reading:
     - The Programmatic Programmer - David Thomas & Andrew Hunt
     - The effective software engineer - Addy Osmani
