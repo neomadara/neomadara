@@ -77,11 +77,3 @@ I specialize in full-stack & backend engineering, API design, hybrid application
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
----
-
-📊 **Current Focus:**
-<!--START_SECTION-->
-```text
-Pursuing Coursera certification: Java Spring Boot - Advanced (EDUCBA)
-```
-<!--END_SECTION-->
